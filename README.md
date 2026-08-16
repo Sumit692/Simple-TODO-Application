@@ -461,7 +461,8 @@ Atria Institute of Technology
 ### Connect With Me
 
 * GitHub: [@Sumit692](https://github.com/Sumit692)
-*LinkedIn: (https://www.linkedin.com/in/sumitkumarsingh24/)
+  
+* LinkedIn: (https://www.linkedin.com/in/sumitkumarsingh24/)
 
 ---
 
